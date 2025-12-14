@@ -31,14 +31,7 @@ a {
     color: white;
     text-decoration: none;
     border-radius: 5px;
-}
-/* Banner image */
-.banner{
-  width:100%;
-  height:300px;
-  object-fit:cover;
-  border-radius:10px;
-  margin-top:20px;
+
 }
 
 /* Food images */
@@ -47,4 +40,5 @@ a {
   margin:10px;
   border-radius:10px;
 }
+
 
