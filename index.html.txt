@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sharma Catering Services</title>
+    <title>Purohit Catering Services</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <h1>Sharma Catering Services</h1>
+    <h1>Purohit Catering Services</h1>
     <p>Best Catering for Weddings, Parties & Events</p>
 
     <h2>Our Services</h2>
@@ -19,17 +19,18 @@
 
     <h2>Menu Highlights</h2>
     <ul>
-        <li>Paneer Butter Masala</li>
-        <li>Biryani</li>
-        <li>Dal Makhani</li>
+        <li>Punjabi Dishes</li>
+        <li>Gujarati Dishes</li>
+        <li>Rajasthani Dishes</li>
         <li>Chinese & Snacks</li>
     </ul>
 
     <h2>Contact Us</h2>
-    <p>📞 Phone: 9876543210</p>
-    <p>📍 Location: Delhi</p>
+    <p>📞 Phone: 9825945411</p>
+    <p>📍 Location: ahmedabad</p>
 
     <a href="https://wa.me/919876543210">Order on WhatsApp</a>
 
 </body>
 </html>
+
