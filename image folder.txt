@@ -1,0 +1,1 @@
+<img src="images/food1.jpg" width="300">
